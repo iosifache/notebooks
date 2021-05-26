@@ -1,0 +1,10 @@
+# Python 3 environment and Jupyter Notebook
+environment
+.ipynb_checkpoints
+
+# Datasets
+datasets/*/*
+!datasets/*/.gitkeep
+
+# Visual Studio Code
+.vscode
