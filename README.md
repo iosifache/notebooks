@@ -1,5 +1,7 @@
 # Notebooks 📓
 
+## Description 🖼️
+
 This repository holds **miscellaneous Jupyter notebooks**, for domains such as data analysis, machine learning, and biometric systems.
 
 The used datasets were not uploaded as most of them are bulky (especially the ones containing images or voice recordings). So before running a notebook, ensure that the required files are downloaded and placed directly in the `dataset` folder or its corresponding sub-folder from the `dataset` folder.
@@ -8,7 +10,7 @@ The used datasets were not uploaded as most of them are bulky (especially the on
 
 1. Create an environment: `python3 -m venv environment`
 2. Activate the environment: `source environment/bin/activate`
-3. Install the required packages: `pip3 install requirements.txt`
+3. Install the required packages: `pip3 install -r requirements.txt`
 
 ## Folder Structure 📁
 
